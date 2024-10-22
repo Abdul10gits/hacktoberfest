@@ -26,6 +26,8 @@ Here is a simple way to contribut to the project.
 * Clone your fork down to your local machine
 ```markdown
 git clone <url> (given in clone or download button)
+
+cd repo name <hacktoberfest> (change working directory to hacktoberfest folder.Executing commands outside of the working folder will get you the "not a git repository message". 
 ```
 * Create a branch
 ```markdown
